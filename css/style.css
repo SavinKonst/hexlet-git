@@ -1,3 +1,10 @@
-.mainbox {
+.logobox {
     border: 1px solid black
+}
+.logo-pic{
+  height: 50px;
+  float: left;
+}
+.logo-text{
+  font-size: 25px;
 }
